@@ -52,7 +52,7 @@ export default function RootLayout() {
         options={{
           headerShown: true,
           title: "Contact",
-          headerTitle: "Contact Us",
+          headerTitle: "",
         }}
       />
       <Stack.Screen name="+not-found" options={{ headerShown: false }} />
